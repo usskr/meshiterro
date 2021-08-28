@@ -1,6 +1,6 @@
 ## DMM WEBCAMP【meshiterro】
 <li>DMM WEBCAMPコンテンツ「アプリケーションを完成させよう2」</li>
-<li>食事に関するSNS</li>
+<li>飲食店の紹介SNS</li>
 <li>機能一覧
 <ol>
     <li>投稿の一覧表示</li>
